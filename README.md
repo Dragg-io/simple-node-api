@@ -1,4 +1,4 @@
-## FinApi - Financeia
+## FinAPI - API Financeira
 
 ---
 
